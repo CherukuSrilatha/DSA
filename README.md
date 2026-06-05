@@ -4,16 +4,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## Topics Covered
 - Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees & BST
-- Graphs
-- Heaps
-- Recursion & Backtracking
-- Greedy Algorithms
-- Dynamic Programming
-- Bit Manipulation
 
 ## Language
 - Python
