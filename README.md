@@ -1,2 +1,21 @@
-# DSA
-Topic-wise Python solutions for Data Structures and Algorithms problems from LeetCode, focused on coding interview preparation and problem-solving.
+# DSA & LeetCode Solutions
+
+This repository contains my solutions to Data Structures and Algorithms problems solved on LeetCode and other coding platforms. The solutions are organized by topic and implemented in Python, covering fundamental and advanced concepts frequently asked in technical interviews.
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & BST
+- Graphs
+- Heaps
+- Recursion & Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Bit Manipulation
+
+## Language
+- Python
+
+The goal of this repository is to improve problem-solving skills, master DSA concepts, and prepare for coding interviews.
